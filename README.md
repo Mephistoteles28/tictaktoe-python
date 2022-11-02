@@ -6,6 +6,10 @@ So this is my first project on Python which is TicTakToe game, and yes I still m
 
 You can play this game by **_click on the .exe file_** inside dist folder (dist\tiktaktoeV2.exe) and it will automatically run in your command prompt.
 
+1. You can download it by using git command,
+   `git clone https://github.com/Mephistoteles28/tictaktoe-python.git`
+2. Run the file by selecting the .exe file inside **_dist\tiktaktoeV2.exe_**.
+
 ## Rules
 
 And here some rules in this game:
