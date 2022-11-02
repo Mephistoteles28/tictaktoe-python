@@ -4,7 +4,7 @@ So this is my first project on Python which is TicTakToe game, and yes I still m
 
 ## How to play
 
-You can play this game by **_click on the .exe file_** and it will automatically run in your command prompt.
+You can play this game by **_click on the .exe file_** inside dist folder (dist\tiktaktoeV2.exe) and it will automatically run in your command prompt.
 
 ## Rules
 
